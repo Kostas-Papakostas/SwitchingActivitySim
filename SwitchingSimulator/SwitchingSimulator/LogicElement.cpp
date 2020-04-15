@@ -14,6 +14,7 @@ elementStruct element;
 
 LogicElement::LogicElement()
 {
+	esw = 0;
 }
 
 

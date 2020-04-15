@@ -23,9 +23,9 @@ SwitchingSimulator.vcxproj.filters
 
 SwitchingSimulator.cpp
     This is the main application source file.
-    
+
 LogicElement.cpp
-    This is major element class.
+    Major element source file.
 
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
